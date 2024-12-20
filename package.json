@@ -10,10 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@bit-ocean/auto-import": "^0.0.48",
     "@reduxjs/toolkit": "^2.3.0",
     "antd": "^5.21.6",
     "axios": "^1.7.7",
     "dayjs": "^1.11.13",
+    "less": "^4.2.1",
     "lodash": "^4.17.21",
     "prettier": "^3.3.3",
     "react": "^18.3.1",

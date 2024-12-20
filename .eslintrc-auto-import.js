@@ -1,11 +1,17 @@
 export default {
   "globals": {
+    "Button": true,
+    "Flex": true,
     "Link": true,
     "NavLink": true,
     "Navigate": true,
     "Outlet": true,
+    "PropTypes": true,
     "Route": true,
     "Routes": true,
+    "Space": true,
+    "Spin": true,
+    "Typography": true,
     "createRef": true,
     "forwardRef": true,
     "https": true,
